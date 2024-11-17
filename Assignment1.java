@@ -4,6 +4,7 @@ public class Assignment1 {
         System.out.println("ΑΜ:8230022");
         System.out.println("AM:8200168");
         System.out.println("AM:8230218");
+        System.out.println("AM:8230035");
         
         
     }
