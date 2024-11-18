@@ -7,5 +7,6 @@ public class Assignment1 {
         System.out.println("AM:8230035");
         System.out.println("AM:8220057");
         System.out.println("AM:8230220");
+        System.out.println("AM:8220211");
     }
 }
